@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Spreadst -->
+
+<com.android.launcher3.CalendarBubbleTextView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:launcher="http://schemas.android.com/apk/res-auto"
+    style="@style/Icon.AllApps"
+    android:id="@+id/application_icon"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+    android:focusable="true"
+    android:paddingTop="@dimen/all_apps_icon_top_bottom_padding"
+    android:paddingBottom="@dimen/all_apps_icon_top_bottom_padding"
+    launcher:iconDisplay="all_apps" />
