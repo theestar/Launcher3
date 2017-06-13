@@ -47,6 +47,7 @@ LOCAL_JAVA_LIBRARIES := sprd-support-addon
 
 #LOCAL_SDK_VERSION := current
 LOCAL_PACKAGE_NAME := Launcher3
+LOCAL_PACKAGE_NAME := Launcher3
 LOCAL_PRIVILEGED_MODULE := true
 #LOCAL_CERTIFICATE := shared
 
